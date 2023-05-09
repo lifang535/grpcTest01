@@ -1,3 +1,3 @@
 # grpcTest01
-a test of gRPC
+This is a test of gRPC.
 none
